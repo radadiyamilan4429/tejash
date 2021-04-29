@@ -1,4 +1,21 @@
 {
-
-"id" : "milan radadiya"
+  "appPackage": "",
+  "isLive": true,
+  "newAppPackage": "",
+  "isAdsShow": true,
+  "admobinterstart":"ca-app-pub-3940256099942544/5135589807",
+  "admobopenads":"ca-app-pub-3940256099942544/5662855259",
+  "admobbanner":"ca-app-pub-3940256099942544/2934735716",
+  "admobnativeAd":"ca-app-pub-3940256099942544/3986624511",
+  "admobrewardedinterstitial":"ca-app-pub-3940256099942544/6978759866",
+  "fb_interstart":"515483735746017_515485632412494111",
+  "fb_inter":"515483735746017_515485632412494111",
+  "fbbbanner":"IMG_16_9_APP_INSTALL#515483735746017_515486935745697",
+  "fbnativeAd":"IMG_16_9_APP_INSTALL#1381401448726553_1382333125300052",
+  "isShowGG": true,
+  "sa_app_id":"206295220",
+  "percent_banner": 50,
+  "percent_inter": 100,
+  "percent_native": 100,
+  "numberNativeAd": 1
 }
